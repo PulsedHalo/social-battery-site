@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VRDK532D6H.com.pulsedhalo.socialbattery",
+        "paths": ["/join", "/join/*"]
+      }
+    ]
+  }
+}
